@@ -30,4 +30,4 @@ This portfolio is where I document my progress, share my work, and grow my brand
 ## 🚀 Setup & Installation
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/portfolio-deonthedeveloper.git
+   git clone https://github.com/Deon-dev/portfolio-deonthedeveloper.git
