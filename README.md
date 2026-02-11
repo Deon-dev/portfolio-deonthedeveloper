@@ -12,9 +12,7 @@ This portfolio is where I document my progress, share my work, and grow my brand
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React 
-- **Backend:** Node.js + Express.js  
-- **Database:** MongoDB  
+- **Frontend:** React   
 - **Styling:** TailwindCSS  
 
 ---
